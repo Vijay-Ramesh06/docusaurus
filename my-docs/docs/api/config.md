@@ -9,7 +9,7 @@ This page provides a comprehensive reference for all configuration options avail
 ## Top-Level Configuration
 
 ### `title` (string)
-The title of your site, displayed in the browser tab and navbar.
+The title of your site, displayed in that browser tab and navbar.
 
 ```javascript
 title: 'My Documentation Site'
